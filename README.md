@@ -1,3 +1,4 @@
 # FruitWar
-simple console application c# 
-can set number of players,bonus objects and field dimensions
+multiplayer console application c# 
+OOP
+Dependency Injection, IoC container(Ninject)
